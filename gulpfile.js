@@ -10,6 +10,7 @@ const execSync = require('child_process').execSync;
 
 const sources = [
     'index.js',
+    'Calculator.js',
     'lib/**/*.js'
 ];
 
