@@ -16,7 +16,8 @@
     "gulp": "^3.9.1",
     "gulp-istanbul": "^0.10.3",
     "gulp-jasmine": "^2.3.0",
-    "jasmine-reporters": "^2.1.1"
+    "jasmine-reporters": "^2.1.1",
+    "json-xlsx": "^0.1.2"
   },
   "engines": {
     "node": ">=6.9.1",
